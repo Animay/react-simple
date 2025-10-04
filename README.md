@@ -1,4 +1,4 @@
-# sreact-simple
+# react-simple
 
 A collection of simple React projects to practice and learn React step by step.  
 Each project will be small, focused, and will help in building a strong foundation for React.
